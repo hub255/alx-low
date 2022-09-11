@@ -3,13 +3,10 @@
 
 
 /**
-
  * main - Entry point
-
  *
-
+ *Description: Refers to main
  * Return: Always 0 (Success)
-
  */
 
 int main(void)
