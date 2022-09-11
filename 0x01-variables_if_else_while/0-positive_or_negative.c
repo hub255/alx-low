@@ -2,7 +2,13 @@
 #include <time.h>
 #include <stdio.h>
 
-/* The main function to return random number */
+/**
+ *main - print if the number is positive, zeor or negative
+ *
+ *Description: uses the main function
+ *Prints according to the number
+ *Return a 0
+ */
 int main(void)
 {
   int n;
