@@ -2,7 +2,7 @@
 /**
 *_abs- prints absolute number
 *
-*@n: character to use
+*@i: character to use
 *Return: a positive integer
 */
 int _abs(int i)
