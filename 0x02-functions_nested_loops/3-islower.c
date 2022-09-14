@@ -1,14 +1,15 @@
 #include "main.h"
 /**
-*int _islower - prints lower case
+*_islower - prints lower case
 *
+*@c: character to compare
 *Return: 1 if True, 0 if false
 */
 int _islower(int c)
 {
 if (c >= 'a' && c <= 'z')
 {
-return(1);
+return (1);
 }
-return(0);
+return (0);
 }
