@@ -3,7 +3,8 @@
 *print_sign-print sign
 *
 *@n: character to comparewith
-*return: 1 if positive, 0 if zero, -1 if negative
+*
+*Return: 1 if positive, 0 if zero, -1 if negative
 */
 int print_sign(int n)
 {
